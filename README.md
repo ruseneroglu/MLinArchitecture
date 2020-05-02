@@ -10,7 +10,6 @@ For the final project, My group fellow Dilan and I considered that film scenes h
 
 DataScarping will be updated as soon as posiible!
 
-### Support or Contact
+### Contact
 
 Please inform me anything about my blog! 
-E-mail : rusenerogluu@gmail.com(scr)
