@@ -1,10 +1,10 @@
 ## Introduction
 
-This blog conducted as a part of Machine Learning in Architecture, instructed by Ozgun Balaban, which is an Architectural Design Computing Graduate Program course in Istanbul Technical University.
+This blog created as a part of Machine Learning in Architecture, instructed by Ozgun Balaban, which is an Architectural Design Computing Graduate Program course in Istanbul Technical University.
 
-### Project
+### Final Project
 
-xxx
+
 
 ```markdown
 Code can be write this area
