@@ -10,6 +10,7 @@ After [this video](https://vimeo.com/122378469?fbclid=IwAR0I8y4nC2gfigSMcmQTPYr0
 ### Others
 
 DataScarping will be updated as soon as possible!
+
 Perceptron too :)
 
 #### Contact
