@@ -1,6 +1,6 @@
 ## Introduction
 
-This blog created as a part of Machine Learning in Architecture, instructed by Ozgun Balaban, which is an Architectural Design Computing Graduate Program course at Istanbul Technical University.
+This blog created as a part of Machine Learning in Architecture, instructed by [Ozgun Balaban](https://github.com/AlpinistPanda), which is an Architectural Design Computing Graduate Program course at Istanbul Technical University.
 
 ### Final Project
 
