@@ -12,4 +12,5 @@ DataScarping will be updated as soon as posiible!
 
 ### Support or Contact
 
-Please inform me anything about my blog! E-mail:rusenerogluu@gmail.com
+Please inform me anything about my blog! 
+E-mail : rusenerogluu@gmail.com(scr)
