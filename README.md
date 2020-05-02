@@ -4,32 +4,12 @@ This blog created as a part of Machine Learning in Architecture, instructed by O
 
 ### Final Project
 
+For final project, we considered that film secenes has spatial properties
 
-
-```markdown
-Code can be write this area
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see...
-
-### Homeworks
+### Others
 
 xxx
 
 ### Support or Contact
 
-xxx
+Please inform me anything about my blog! E-mail:rusenerogluu@gmail.com
